@@ -6,8 +6,12 @@ A script to fetch a list of emojis from [Emoji API](https://emoji-api.com/) and 
 
 First, make sure to install the dependencies
 
-`npm install`
+```js
+npm install
+```
 
 Then run the script
 
-`npm start`
+```js
+npm start
+```
